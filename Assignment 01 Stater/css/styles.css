@@ -1,0 +1,34 @@
+li {
+  color: blue;
+}
+.float1 {
+  float: left;
+}
+.float2 {
+  float: left;
+  /* clear: left; */
+}
+.float3 {
+  float: right;
+}
+.wh {
+  width: 200px;
+  height: 200px;
+}
+/* .4{
+  float:left
+}
+.5{
+  float:left
+}
+.6{
+  float:left
+}
+.7{
+  float:left
+}
+.8{
+  float:left
+}
+.9{
+  float:left */
